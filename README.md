@@ -6,3 +6,7 @@ This was the very first task of this internship, I went through many challenges 
 3.) Pandas:- Pandas is used for accessing csv and xlsx files, which is used for further visualisation.
 4.) Numpy:- Used for calculative purposes.
 5.) Ignore Warnings:- This basically ignores warniings gievn by the IDE.
+
+
+Attached ipynb file will guide you in a better way.
+
